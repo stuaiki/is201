@@ -1,0 +1,30 @@
+.myfont{
+    font-family:'Courier New', Courier, monospace
+}
+.mysubfont{
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke !important;
+}
+.myimg{
+    width: 50% !important;
+}
+.myitalics{
+    font-style: italic;
+}
+.background{
+    background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("../assets/img/aboutmepage.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+  }
+.imagesize{
+    width: 70%
+}
+.introimagesize{
+    width: 60%;
+    margin-left: 30%;
+}
+.video{
+    width: 100%;
+    height: 380px !important;
+}
