@@ -118,3 +118,8 @@
 .scratchback{
     background-color: aliceblue;
 }
+.exptext{
+    font-size: 13pt;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
